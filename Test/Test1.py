@@ -3,8 +3,12 @@ print("hello world Jupyter")
 
 # COMMAND ----------
 
-for i in "schneider":
+for i in "schneider electric":
   print(i)
+
+# COMMAND ----------
+
+print("hello")
 
 # COMMAND ----------
 
